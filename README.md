@@ -10,8 +10,8 @@
 
 
 ### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👩‍💻 &nbsp; Currently working on many small project.
+- 👩‍💻 &nbsp; Open to work.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ritikraj07).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ritikra3rrr@gmail.com.
