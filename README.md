@@ -10,13 +10,13 @@
 
 
 ### Talking about Personal Stuffs:
-- 👩‍💻 &nbsp; Currently working on many small project.
-- 👩‍💻 &nbsp; Open to work.
+- 👩‍💻 &nbsp; Currently working on UBV Digital as a <b>Full Stack Developer </b>.
+- 👩‍💻 &nbsp; Open to hire.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ritikraj07).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ritikra3rrr@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Piz6_5AZqQMaSUfc8TJI-dnD8P3jYtRl/view).
-- 💻 &nbsp; Checkout my [Portfolio](https://ritikraj07.github.io/Portfolio/).
+- 💻 &nbsp; Checkout my [Portfolio](https://ritikraj07.github.io/).
 
 
 <h2 align="left">Connect with me:</h2>
