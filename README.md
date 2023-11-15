@@ -16,7 +16,7 @@
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ritikra3rrr@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Piz6_5AZqQMaSUfc8TJI-dnD8P3jYtRl/view).
-- 💻 &nbsp; Checkout my [Portfolio](https://ritikraj07.github.io/).
+- 💻 &nbsp; Checkout my [Portfolio](https://ritikraj07.github.io/Portfolio/).
 
 
 <h2 align="left">Connect with me:</h2>
