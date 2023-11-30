@@ -12,7 +12,7 @@
 
 ### Talking about Personal Stuffs:
 - 👩‍💻 &nbsp; Currently looking for a new opportunity
-- 👩‍💻 &nbsp; Open to hire.
+
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ritikraj07).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ritikra3rrr@gmail.com.
