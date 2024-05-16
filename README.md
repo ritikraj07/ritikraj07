@@ -1,41 +1,133 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikraj07&label=Profile%20views&color=0e75b6&style=flat" alt="ritikraj07" /> </p>
-<h1 align="center">Hi 👋, I'm Ritik Raj</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
-<p>A passionate and adaptable <b>Full-Stack Developer</b>, skilled in JavaScript, with proficiency in problem-solving. I seek a position to enhance my skills while significantly contributing to the company's growth.</p>
+<!----------------------------------- Banner Section ------------------------------------>
+
+[![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)](https://ritikraj07.github.io/)
+
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi 🙋‍♂️ I'm Ritik Raj
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
+
+<!----------------------------------- About Section ------------------------------------>
+
+<h3 align="center">Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.</h3>
+
+# 💫 About Me:
+
+<img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" />
+
+- 🔭 I’m currently searching for jobs!
+- 🌱 I’m currently learning Digital Marketing.
+<!-- need to add resume drive link -->
+- 📄 Check out my [Resume](https://drive.google.com/file/d/10v7bCb1navhJzBg9zyWHrOwtRUjhb3nS/view?usp=sharing) 
+- 💻 Know more about me [Portfilio](https://ritikraj07.github.io/Portfolio/)
+- 💻 All of my projects are available at My [Github Repositories](https://github.com/ritikraj07?tab=repositories)
+
+- 💬 Ask me about HTML, CSS, React, React Native, Node.js, Express.js, JavaScript
+
+- 😄 Pronouns: Web Developer/he/him/his
+- 💼 any freelance work? do reach, [email](mailto:ritikra3rrr@gmail.com) :)
+  <br/>
+
+<h2 align="center">📱 Connect with me</h2>
+<br />
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ritik--Raj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-mishra-5302b4189/)](https://www.linkedin.com/in/ritik-raj07/)
+[![Website Badge](https://img.shields.io/badge/-Ritik--Raj-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://Himanshu-Mishra-portfolio.vercel.app/)](https://ritikraj07.github.io/Portfolio/)
+[![Gmail Badge](https://img.shields.io/badge/-ritikra3rrr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ritikra3rrr@gmail.com)](mailto:ritikra3rrr@gmail.com)
 
 
-### Talking about Personal Stuffs:
-- 👩‍💻 &nbsp; Currently looking for a new opportunity
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ritikraj07).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: ritikra3rrr@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Piz6_5AZqQMaSUfc8TJI-dnD8P3jYtRl/view).
-- 💻 &nbsp; Checkout my [Portfolio](https://ritikraj07.github.io/Portfolio/).
+</div>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/ritik-raj07/" target="blank">
-    <img src="![image](https://github.com/ritikraj07/ritikraj07/assets/117502397/7a4269dd-0351-4726-9e30-a06ab739ed6c)
-" height="60px" data-canonical-src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<br />
+
+<h2 align="center">🚀 Languages and Tools:</h2>
+<br/>
+<div align="center">
+ 
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+<br/>
+<br/>
+  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  
+</div>
+ <br/>
+  <div align="center"><h3 align="center">Backend</h3> 
+  <img src="https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white" align="center" alt="java">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+ </div>
+  
+  <div align="center"><h3 align="center">Tools</h3> 
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <br/>
+<br/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+ </div>
+</div>
+
+<br/>
+<br/>
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ritikraj07&label=Profile%20views&color=ee4e20&style=flat" alt="ritikraj07" /> </p>
+
+<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>📈 My Github stats:</b></i> </h2>
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/ritikraj07/github-readme-stats"><img alt="ritikraj07 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="center">
+    <a href="https://github.com/ritikraj07/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj07&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
 </p>
 
-<h2 align="left">Tech Stack:</h2>
-<p align="center" dir="auto">  
-    <a href="https://html.com/" rel="nofollow"> <img width="60px" height="60px" src="https://camo.githubusercontent.com/3a747fd2d558d3d5dc8c003f4239e2fe6c816f1aa19e56fc40f74f2c3ee3acf1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672f31333070782d48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" style="max-width: 100%;"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"> <img height="60px" src="https://camo.githubusercontent.com/50b89961b0de31e000160fcc0169799332426979bf616f7e28e4c1c75d578635/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f68746d6c352d6c6f676f2d706e672f68746d6c352d6c6f676f2d6f70656e636f64652d6373732d382e706e67" data-canonical-src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" style="max-width: 100%;"> </a> 
-    <a href="https://www.javascript.com/" rel="nofollow"> <img height="60px" width="60px" src="https://camo.githubusercontent.com/ebba410edfb05353d7b46b3107304e7deeee8c6c12bc8769115f2dce43d11da0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f4a6176615363726970742d6c6f676f2e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;"></a> 
-    <a href="https://reactjs.org/" rel="nofollow"> <img height="60px" width="60px" src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" style="max-width: 100%;"></a>
-    <a href="https://nodejs.org/en/" rel="nofollow"><img height="60px" src="https://camo.githubusercontent.com/bb12151c6b0cad592b4b7449df388a6db7aa7ceae45ef7cc03c9d4cab56dc90e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e77656270" style="max-width: 100%;"> </a>
-    <a href="https://getbootstrap.com/" rel="nofollow"> <img height="60px" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" data-canonical-src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="max-width: 100%;"></a>
-    <a href="https://www.java.com/en/" rel="nofollow"> <img height="60px" src="https://camo.githubusercontent.com/48612f19ef5bf67ec42fd536446c6c7511b99b4d9d32e2112ece3f565ff74257/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383238322e706e67" data-canonical-src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b32b9b227536f3f3bf1a721cc66da821baa983e665a0f01cf8b235fb62fc1555/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f747970657363726970745f6f726967696e616c5f6c6f676f5f69636f6e5f3134363331372e706e67"><img height="60px" src="https://camo.githubusercontent.com/b32b9b227536f3f3bf1a721cc66da821baa983e665a0f01cf8b235fb62fc1555/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f747970657363726970745f6f726967696e616c5f6c6f676f5f69636f6e5f3134363331372e706e67" data-canonical-src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" style="max-width: 100%;"></a>
-    <a href="https://www.mongodb.com/home" rel="nofollow"> <img height="60px" src="https://camo.githubusercontent.com/4903004263124221e7de74f792adc70af58c199358fe8388a35a086bbd2311af/68747470733a2f2f776562696d616765732e6d6f6e676f64622e636f6d2f5f636f6d5f6173736574732f636d732f6b75796a663376656132686733347461612d686f72697a6f6e74616c5f64656661756c745f736c6174655f626c75652e737667" data-canonical-src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" style="max-width: 100%;"></a>
-    <a href="https://expressjs.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/2f0db692ec65f04e56c67a149ce6bafd98ba260a519c8b02a589191517bbde39/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3534352f3435312f706e672d7472616e73706172656e742d6e6f64652d6a732d657870726573732d6a732d6a6176617363726970742d736f6c7574696f6e2d737461636b2d7765622d6170706c69636174696f6e2d6f74686572732d616e676c652d746578742d72656374616e676c652d7468756d626e61696c2e706e67" alt="express" height="60px" data-canonical-src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" style="max-width: 100%;"> </a>
+  <br/>
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/ritikraj07/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritikraj07&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="ritikraj07" /></a>
+    </p>
+
+<!-- -------------------------- -->
+<h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> :balance_scale: Github Profile Details</b></i> </h2>
+   <br/>   
+    <p align="center">      
+<a href="https://github.com/ritikraj07">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikraj07&theme=radical" />
+</a>
+      </p>      
+     <br/>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=ritikraj07&theme=vue" alt=""/> </p>
 </p>
 
-<h2 align="left">GitHub Stats:</h2>
-<p align="center"><img align="center" width="90%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ritik Raj" /></p>
+  <br/>
 
-<p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=ritikraj07&show_icons=true&locale=en&theme=tokyonight" alt="Ritik Raj" /></p>
+<br/>
 
-<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj07&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ritik Raj" /></p>
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
+
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/ritikraj07/count.svg" />
+</h3>
